@@ -3,6 +3,8 @@ package com.mdev.linearlayoutexample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+
+// Hello everyone. This is an activity
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
